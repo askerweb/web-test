@@ -13,6 +13,10 @@
 
 ![41](https://cloud.githubusercontent.com/assets/25058993/23628220/b57a86bc-02c4-11e7-8143-8eb460cd6118.png)
 
+##Записывать весь процес выполнения задания, ссылка на программу: http://vsetop.com/software/824-faststone-capture-8.0-klyuch-na-russkom.html 
+## обучалка по проге - https://cloud.mail.ru/public/G3kj/M45rxM28j
+
+
 То, что мы рекомендуем использовать:
 - gulp (или аналогичный сборщик)
 - bower
